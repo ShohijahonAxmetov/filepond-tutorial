@@ -1,6 +1,7 @@
 Use **FilePond** in **Laravel** for beginners
 
 File structure:
+
     routes\web.php - routes;
 
     app\Http\Controllers\FilePondController.php - handle **FilePond** methods;
