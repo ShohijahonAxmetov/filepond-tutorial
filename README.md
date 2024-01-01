@@ -9,8 +9,8 @@ File structure:
     public\assets\scripts\* - **FilePond** scripts;
     public\assets\styles\* - **FilePond** styles;
 
-    resources\views\components\filepond\styles.blade.php - **FilePond** styles for include to layout (if you edit, then from here)
-    resources\views\components\filepond\scripts.blade.php - **FilePond** scripts for include to layout (if you edit, then from here)
+    resources\views\components\filepond\styles.blade.php - **FilePond** styles for include to layout (_if you edit, then from here_)
+    resources\views\components\filepond\scripts.blade.php - **FilePond** scripts for include to layout (_if you edit, then from here_)
 
     resources\views\welcome.blade.php - start view
 
